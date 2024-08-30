@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FernandaRobles1234
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning depth estimation
+- 🌱 I’m currently learning Game Development.
 - 📫 How to reach me fernandarobles1234@gmail.com
 
 <!---
